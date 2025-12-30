@@ -1,0 +1,43 @@
+{
+  "120363405625829866@g.us": {
+    "warns": {
+      "263453965078561@lid": [
+        "ɴᴏ ʀᴇᴀsᴏɴ"
+      ]
+    }
+  },
+  "584121691646-1613219137@g.us": {
+    "antilink": "delete",
+    "feature.antibadword": true,
+    "feature.antispam": false
+  },
+  "120363422584199650@g.us": {
+    "antilink": "kick"
+  },
+  "120363420713125551@g.us": {
+    "autoReact": true
+  },
+  "120363404846520737@g.us": {
+    "autoReact": false
+  },
+  "120363421689999431@g.us": {
+    "antilink": "delete",
+    "feature.antibadword": false,
+    "feature.antispam": false
+  },
+  "150685035274381@lid": {
+    "feature.antibadword": true
+  },
+  "127638425333799@lid": {
+    "feature.antibadword": true
+  },
+  "154648921043169@lid": {
+    "feature.antibadword": false
+  },
+  "120363403286020588@g.us": {
+    "feature.antispam": true
+  },
+  "120363401969857733@g.us": {
+    "antilink": "warn"
+  }
+}
